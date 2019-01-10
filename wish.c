@@ -8,7 +8,7 @@
 #define printf myPrintf
 
 /**
- CUSTOM SHELL, VERY BASIC. WISH Shell IS a shell that is an experiment in shell creation, while not fully featured it deomonstrates basic concepts such as output redirection built in commands and path variables.
+ CUSTOM SHELL, VERY BASIC. WISH Shell is a shell that is an experiment in shell creation, while not fully featured it deomonstrates basic concepts such as output redirection built in commands and path variables.
  While not recommended for any practical use, this shell can be a great starting point to jump in and learn about shell coding with a basic example. This shell was written with minimization of lines of code in mind and as such also
  demonstrates some (some would call ugly) unorthodox features of the C language. If you are looking for a quick dirty shell just to see whats its like, you have found one that should get you on the right path. Enjoy... W I  S  H 
  **/
